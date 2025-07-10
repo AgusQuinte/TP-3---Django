@@ -1,0 +1,3 @@
+En esta carpeta se encontrara un PDF con todas las respuestas sobre el cuestionario solicitado y los demas archivos necesarios para ejecutar el codigo de Django, donde se realizo el tutorial pedido.
+El proyecto fue realizado en un entorno virtual, el cual no fue subido a github, para facilitar algunas funciones y no cometer interrupciones. 
+Durante la realizacion del proyecto me surgieron varias inconvenientes relacionados con errores, que por lo general, los pude resolver facilmente a traves de foros o IAs. Finalmente pude resolver todo y que quede completo el trabajo para su entrega en tiempo y forma.
